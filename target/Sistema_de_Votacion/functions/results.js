@@ -36,7 +36,7 @@ const loadChart = async()=>{
               "#2677BD",
               "#84FF63",
               "#8463FF",
-              "#F0A630"
+              "#474747"
 
           ],
           borderColor: [
@@ -48,7 +48,7 @@ const loadChart = async()=>{
             "#2677BD",
             "#84FF63",
             "#8463FF",
-            "#F0A630"
+            "#474747"
           ],
           borderWidth: 2
       }]

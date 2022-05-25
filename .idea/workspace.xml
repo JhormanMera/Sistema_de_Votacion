@@ -11,6 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b66c9558-53b4-41d1-a63d-ff6d6f473d1a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Sistema_de_Votacion.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/Sistema_de_Votacion.war" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +150,7 @@
       <updated>1653519401726</updated>
       <workItem from="1653519403180" duration="783000" />
       <workItem from="1653520627234" duration="39000" />
-      <workItem from="1653520839980" duration="344000" />
+      <workItem from="1653520839980" duration="1164000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial Monolito">
       <created>1653519604187</created>
