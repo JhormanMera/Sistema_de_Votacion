@@ -1,6 +1,5 @@
 package services;
 
-import com.thetransactioncompany.cors.CORSFilter;
 import entity.Candidate;
 import model.Message;
 import provider.CandidateProvider;
@@ -14,7 +13,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 
 @Path("Votacion")
-public class CandidateService extends CORSFilter {
+public class CandidateService{
 
     @GET
     @Path("Candidatos")
